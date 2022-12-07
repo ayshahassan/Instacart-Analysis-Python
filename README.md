@@ -34,7 +34,7 @@ For example:
 * Final analysis was carried out using Python
 
 ## Final Deliverables and Results
-* Excel report with recommendations 
-* Visualizations created using Python 
+* [Excel report](https://github.com/ayshahassan/Instacart-Analysis-Python/blob/main/05%20Sent%20to%20client/A4_Final_Report_Aysha%20Hassan%20.xlsx) with recommendations 
+* [Visualizations](https://github.com/ayshahassan/Instacart-Analysis-Python/tree/main/04%20Analysis/Visualizations)created using Python 
 
 *Note: Instacart is a real company that’s made their data available online. However, the contents of this project brief have been fabricated for the purpose of this project.*
